@@ -7,7 +7,7 @@
 		"prestashop-db-core": "php store/install/index_cli.php",
 		"prestashop-setup-clean": "mv store/install store/archived",
 		"prestashop-setup-welcome": [
-			"echo 'It works! Please see <a href=\"https://github.com/absalomedia/prestashop-12factor\">prestashop-12factor on GitHub</a> for info and post-install instructions.'"
+			"echo 'It works! Please see <a href=\"https://github.com/absalomedia/prestashop-12-factor\">prestashop-12-factor on GitHub</a> for info and post-install instructions.'"
 		]
 	}
 }
