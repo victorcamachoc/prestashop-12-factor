@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-nginx -C nginx-prestashop.conf store/
+web: vendor/bin/heroku-php-nginx -C nginx-prestashop.conf .
