@@ -3,8 +3,8 @@
 		"gskema/prestashop-installer": "~2.0"
 	},
 	"scripts": {
-		"prestashop-setup-core": "prestashop new --release=1.7.1.0 --fixture=starwars",
-		"prestashop-db-core": "php install/index_cli.php",
+		"prestashop-setup-core": "prestashop new shop1 --release=1.7.1.0 --fixture=starwars",
+		"prestashop-db-core": "php ./shop1/install/index_cli.php",
 		"prestashop-setup-clean": "mv install archived",
 		"prestashop-setup-welcome": [
 			"echo 'It works! Please see <a href=\"https://github.com/absalomedia/prestashop-12-factor\">prestashop-12-factor on GitHub</a> for info and post-install instructions.'"
