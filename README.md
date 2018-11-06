@@ -2,7 +2,9 @@
 
 Prestashop, the [Twelve-Factor](http://12factor.net/) way: fully managed using Composer and configured using environment variables. This has been heavily inspired by [Wordpress 12 Factor](https://github.com/dzuelke/wordpress-12factor)
 
-[![Code Climate](https://codeclimate.com/github/absalomedia/prestashop-12-factor/badges/gpa.svg)](https://codeclimate.com/github/absalomedia/prestashop-12-factor) [![StyleCI](https://styleci.io/repos/54073612/shield)](https://styleci.io/repos/54073612) [![Codacy Badge](https://api.codacy.com/project/badge/grade/fad89d57d8474c579c8159ed8ea503b3)](https://www.codacy.com/app/media/prestashop-12-factor) ![Prestashop 1.7.1](https://img.shields.io/badge/Prestashop-1.7.1-yellow.svg)
+[![Code Climate](https://codeclimate.com/github/absalomedia/prestashop-12-factor/badges/gpa.svg)](https://codeclimate.com/github/absalomedia/prestashop-12-factor) [![StyleCI](https://styleci.io/repos/54073612/shield)](https://styleci.io/repos/54073612) [![Codacy Badge](https://api.codacy.com/project/badge/grade/fad89d57d8474c579c8159ed8ea503b3)](https://www.codacy.com/app/media/prestashop-12-factor) ![Prestashop 1.7.1](https://img.shields.io/badge/Prestashop-1.7.1-yellow.svg) [![Patreon](https://img.shields.io/badge/patreon-donate-green.svg)](https://www.patreon.com/bePatron?u=14641360)
+
+
 
 
 ## General Concepts and Considerations
